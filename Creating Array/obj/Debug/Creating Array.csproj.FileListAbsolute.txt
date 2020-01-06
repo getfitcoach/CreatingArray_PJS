@@ -1,0 +1,6 @@
+C:\Users\AcademyPgh\source\repos\Creating Array\Creating Array\bin\Debug\Creating Array.exe.config
+C:\Users\AcademyPgh\source\repos\Creating Array\Creating Array\bin\Debug\Creating Array.exe
+C:\Users\AcademyPgh\source\repos\Creating Array\Creating Array\bin\Debug\Creating Array.pdb
+C:\Users\AcademyPgh\source\repos\Creating Array\Creating Array\obj\Debug\Creating Array.csprojAssemblyReference.cache
+C:\Users\AcademyPgh\source\repos\Creating Array\Creating Array\obj\Debug\Creating Array.exe
+C:\Users\AcademyPgh\source\repos\Creating Array\Creating Array\obj\Debug\Creating Array.pdb
